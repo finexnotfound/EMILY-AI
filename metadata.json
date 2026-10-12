@@ -1,0 +1,6 @@
+{
+  "name": "Emily AI",
+  "description": "Personal Android Jarvis voice assistant with local wake-word detection, Gemini AI brain, Nothing OS aesthetic, and phone automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

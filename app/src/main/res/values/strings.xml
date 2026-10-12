@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Emily AI</string>
+    <string name="accessibility_service_description">Emily AI assistant service for authorized hands-free UI automation, screen reading, and navigation.</string>
+    <string name="notification_channel_name">Emily AI Assistant</string>
+    <string name="notification_channel_desc">Active background voice listener and status indicator for Emily AI</string>
+    <string name="notification_title_active">Emily AI is Active</string>
+    <string name="notification_desc_listening">Listening for \"Hey Emily\"…</string>
+    <string name="action_stop_listening">Stop</string>
+    <string name="action_wake_up">Wake Up</string>
+</resources>
